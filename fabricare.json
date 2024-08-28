@@ -1,0 +1,16 @@
+{
+	"solution": {
+		"name" : "vendor-prlib",
+		"type" : "xyo-cpp",
+		"projects": [
+			{
+				"name" : "prlib",
+				"SPDX-License-Identifier": "MIT",
+				"sourceLink" : "https://github.com/zamazan4ik/PRLib",
+				"version" : "1.0.0",
+				"noVersion" : true
+			}
+		],
+		"releaseName" : "prlib"
+	}
+}
