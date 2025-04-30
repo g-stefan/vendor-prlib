@@ -4,7 +4,7 @@ Build scripts for compiling [PRLib - Pre-Recognition Library](https://github.com
 
 ## License
 
-Copyright (c) 2024 Grigore Stefan
+Copyright (c) 2024-2025 Grigore Stefan
 Licensed under the [MIT](LICENSE) license.
 
 **This is a compilation of different works.**
