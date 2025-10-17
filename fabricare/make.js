@@ -29,6 +29,7 @@ if (!Shell.fileExists("temp/build.config.flag")) {
 	Shell.setenv("CC","cl.exe");
 	Shell.setenv("CXX","cl.exe");
 
+	Shell.copyFile("fabricare/source/CMakeLists.txt","source/CMakeLists.txt");
 	Shell.copyFile("fabricare/source/deskew.cpp","source/src/deskew/deskew.cpp");
 
 	cmdConfig="cmake";
